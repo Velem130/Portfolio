@@ -108,7 +108,7 @@ const Hero3 = () => {
               <div className="bg-gray-100 rounded-lg p-4 text-center shadow-sm">
                 <div className="text-lg font-bold">ZA</div>
                 <div className="font-semibold">Swahili</div>
-                <div className="text-sm text-gray-500">85%</div>
+                <div className="text-sm text-gray-500">40%</div>
               </div>
               <div className="bg-gray-100 rounded-lg p-4 text-center shadow-sm">
                 <div className="text-lg font-bold">ZA</div>

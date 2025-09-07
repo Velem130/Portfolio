@@ -50,7 +50,7 @@ function Proje() {
               <span className="bg-blue-100 px-2 py-1 text-black rounded">Tailwind CSS</span>
             </div>
             <div className="mt-4 flex flex-wrap gap-2">
-              <a href="https://www.canva.com/create/portfolios/" className="bg-blue-900 text-white px-4 py-2 rounded hover:bg-blue-700">View Website</a>
+              <a href="https://portfolio-lovat-iota-73.vercel.app/" className="bg-blue-900 text-white px-4 py-2 rounded hover:bg-blue-700">View Website</a>
               <a href="/portfolio-code" className="border text-gray-800 px-4 py-2 rounded hover:bg-gray-400">view Code </a>
             </div>
           </div>
@@ -60,7 +60,7 @@ function Proje() {
         <div className="bg-white rounded-lg shadow hover:shadow-lg transition duration-300">
           <img src={dataanalyse} alt="Sales Data Analysis" className="w-full h-48 object-cover" />
           <div className="p-4">
-            <h3 className="text-lg font-semibold text-gray-800">Sales Data Analysis</h3>
+            <h3 className="text-lg font-semibold text-gray-800">We Build websites</h3>
             <div className="flex flex-wrap gap-2 text-sm text-white mt-2">
               <span className="bg-blue-100 px-2 py-1 text-black rounded">Python</span>
               <span className="bg-blue-100 px-2 py-1 text-black rounded">Pandas</span>
@@ -68,7 +68,7 @@ function Proje() {
               <span className="bg-blue-100 px-2 py-1 text-black rounded">Tableau</span>
             </div>
             <div className="mt-4 flex flex-wrap gap-2">
-              <a href="#" className="bg-blue-900 text-white px-4 py-2 rounded hover:bg-blue-700">View Website</a>
+              <a href="https://webuildwebsites.vercel.app/" className="bg-blue-900 text-white px-4 py-2 rounded hover:bg-blue-700">View Website</a>
               <a href="/portfolio-code" className="border text-gray-800 px-4 py-2 rounded hover:bg-gray-400">View Codes</a>
             </div>
           </div>

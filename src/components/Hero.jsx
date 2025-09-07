@@ -3,7 +3,7 @@ import { FaLaptopCode, FaMobileAlt, FaDatabase, FaLightbulb } from 'react-icons/
 
 const Hero = () => {
   return (
-    <div id="home" className="min-h-screen bg-blue-900 text-white flex flex-col items-center justify-center px-4 text-center">
+    <div id="home" className=" mt-[30px] min-h-screen bg-blue-900 text-white flex flex-col items-center justify-center px-4 text-center">
       <h1 className="text-4xl font-bold mb-2">Issa Mluleki Velem</h1>
       <h2 className="text-xl mb-4">Full-Stack Developer | IT Student at Johannesburg University</h2>
       <p className="max-w-xl mb-8">

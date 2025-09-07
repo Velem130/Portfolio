@@ -13,7 +13,7 @@ import velem from '../assets/velem.jpg'; // Adjust path if needed
 
 const Hero3 = () => {
   return (
-    <div  className="min-h-screen bg-white text-gray-800 flex flex-col items-center px-4 py-10">
+    <div  className=" min-h-screen bg-white text-gray-800 flex flex-col items-center px-4 py-10">
       <h1 className="text-3xl font-bold mb-6 text-center text-gray-900">About Me</h1>
 
       <div className="flex flex-col md:flex-row items-center gap-10 max-w-5xl w-full">
